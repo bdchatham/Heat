@@ -1,4 +1,4 @@
-# Introducing, Heat
+# Heat
 This package contains the contracts and UI for interfacing with Heat, an Ethereum-based social music discovery application.
 
 ## Music Discovery
