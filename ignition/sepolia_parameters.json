@@ -1,0 +1,11 @@
+{
+    "HeatSelectionManagerModule": {
+        "owner": "0xA6da88037b374Bc67F2AD1618E163B0Cca656208"
+    },
+    "VoteResultOracleModule": {
+        "owner": "0xA6da88037b374Bc67F2AD1618E163B0Cca656208"
+    },
+    "ReputationOracleModule": {
+        "owner": "0xA6da88037b374Bc67F2AD1618E163B0Cca656208"
+    }
+}
